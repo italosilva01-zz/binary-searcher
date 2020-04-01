@@ -1,5 +1,6 @@
 #include <iostream>
 
+using value_type = int;
 
 int* bsearch(int* first, int*last,int target){
 
